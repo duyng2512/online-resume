@@ -18,7 +18,7 @@ contact:
   bitbucket:
   googlescholar:
   researchgate:
-  linkedin: https://www.linkedin.com/in/nguyen-tran-cong-duy-b8619a180/
+  linkedin: /in/nguyen-tran-cong-duy-b8619a180/
   medium:
   twitter: 
   stackoverflow:
@@ -33,11 +33,11 @@ profile:
     experience. I have a strong understanding of system design, data structure, algorithms, coding design pattern
     and concurrency.
     
-    Languages: Java, JavaScript, Type Script, Python, SQL
-    Frameworks & Tools: Spring, Vert X, Quarkus, Akka, NodeJS, React, React Query, Redux, Grpc, GraphQL
-    DB & Message Queue: Oracle, MySQL, TiDB, Elastic Search, AirFlow, Spark, Redis, Cassandra, Kafka, RabbitMQ.
-    Cloud Service: AWS (Lambda, S3, DynamoDB, SNS, SQS)
-    DevOps & Infrastructure: Have experience working with: Jenkins, GitLab, Docker, K8s, Monitoring tools (Grafana,
+    - Languages: Java, JavaScript, Type Script, Python, SQL
+    - Frameworks & Tools: Spring, Vert X, Quarkus, Akka, NodeJS, React, React Query, Redux, Grpc, GraphQL
+    - DB & Message Queue: Oracle, MySQL, TiDB, Elastic Search, AirFlow, Spark, Redis, Cassandra, Kafka, RabbitMQ.
+    - Cloud Service: AWS (Lambda, S3, DynamoDB, SNS, SQS)
+    - DevOps & Infrastructure: Have experience working with: Jenkins, GitLab, Docker, K8s, Monitoring tools (Grafana,
     Prometheus), Open Tracing
 
 experiences:
